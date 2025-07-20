@@ -20,7 +20,7 @@ button {
 }
 
 button:hover {
-  background-color: rgb(236, 236, 94);  /* Hover background */
+  background-color: rgb(216, 216, 64);  /* Hover background */
   color: #ffffff;
 }
 
